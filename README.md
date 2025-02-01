@@ -1,5 +1,4 @@
 # Moment Log
-*순간을 기록하다*
 
 - Splash
 - Main
